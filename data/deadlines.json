@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Bài tập lớn - Xây dựng website bán hàng",
+    "description": "Xây dựng website thương mại điện tử sử dụng Next.js, có đăng nhập, giỏ hàng, thanh toán. Nộp source code và báo cáo PDF.",
+    "subjectId": "s1",
+    "dueDate": "2026-11-15T23:59:00+07:00",
+    "type": "project",
+    "priority": "high",
+    "createdAt": "2026-10-01T08:00:00+07:00"
+  },
+  {
+    "id": "2",
+    "title": "Lab 3 - CSS Flexbox & Grid",
+    "description": "Hoàn thành các bài thực hành về Flexbox và CSS Grid Layout. Nộp file HTML/CSS lên LMS.",
+    "subjectId": "s1",
+    "dueDate": "2026-11-05T23:59:00+07:00",
+    "type": "lab",
+    "priority": "medium",
+    "createdAt": "2026-10-10T08:00:00+07:00"
+  },
+  {
+    "id": "3",
+    "title": "Bài tập thiết kế CSDL quan hệ",
+    "description": "Thiết kế sơ đồ ERD và chuyển sang mô hình quan hệ cho hệ thống quản lý thư viện. Nộp file PDF.",
+    "subjectId": "s2",
+    "dueDate": "2026-11-08T23:59:00+07:00",
+    "type": "assignment",
+    "priority": "high",
+    "createdAt": "2026-10-05T08:00:00+07:00"
+  },
+  {
+    "id": "4",
+    "title": "Bài kiểm tra giữa kỳ CSDL",
+    "description": "Thi trực tuyến trên LMS, nội dung từ chương 1-5. Thời gian làm bài 90 phút.",
+    "subjectId": "s2",
+    "dueDate": "2026-11-10T09:00:00+07:00",
+    "type": "exam",
+    "priority": "urgent",
+    "createdAt": "2026-10-08T08:00:00+07:00"
+  },
+  {
+    "id": "5",
+    "title": "Lab 4 - Viết câu lệnh SQL nâng cao",
+    "description": "Thực hành JOIN, GROUP BY, HAVING, subquery. Nộp file .sql chứa các câu lệnh.",
+    "subjectId": "s2",
+    "dueDate": "2026-11-20T23:59:00+07:00",
+    "type": "lab",
+    "priority": "medium",
+    "createdAt": "2026-10-15T08:00:00+07:00"
+  },
+  {
+    "id": "6",
+    "title": "Báo cáo phân tích giao thức TCP/IP",
+    "description": "Phân tích packet capture bằng Wireshark, viết báo cáo về cách hoạt động của TCP/IP.",
+    "subjectId": "s3",
+    "dueDate": "2026-11-12T23:59:00+07:00",
+    "type": "assignment",
+    "priority": "medium",
+    "createdAt": "2026-10-12T08:00:00+07:00"
+  },
+  {
+    "id": "7",
+    "title": "Lab 2 - Cấu hình Router và Switch",
+    "description": "Thực hành trên Cisco Packet Tracer: cấu hình VLAN, routing tĩnh, DHCP.",
+    "subjectId": "s3",
+    "dueDate": "2026-11-07T23:59:00+07:00",
+    "type": "lab",
+    "priority": "high",
+    "createdAt": "2026-10-13T08:00:00+07:00"
+  },
+  {
+    "id": "8",
+    "title": "Bài tập lớn - Thiết kế hệ thống mạng",
+    "description": "Thiết kế hạ tầng mạng cho công ty vừa và nhỏ, bao gồm sơ đồ topology, cấu hình thiết bị.",
+    "subjectId": "s3",
+    "dueDate": "2026-12-01T23:59:00+07:00",
+    "type": "project",
+    "priority": "high",
+    "createdAt": "2026-10-20T08:00:00+07:00"
+  },
+  {
+    "id": "9",
+    "title": "Use Case Diagram - Hệ thống đặt vé",
+    "description": "Vẽ Use Case Diagram và Activity Diagram cho hệ thống đặt vé máy bay bằng StarUML.",
+    "subjectId": "s4",
+    "dueDate": "2026-11-03T23:59:00+07:00",
+    "type": "assignment",
+    "priority": "medium",
+    "createdAt": "2026-10-14T08:00:00+07:00"
+  },
+  {
+    "id": "10",
+    "title": "Báo cáo phân tích yêu cầu",
+    "description": "Viết tài liệu SRS (Software Requirements Specification) cho hệ thống quản lý nhân sự.",
+    "subjectId": "s4",
+    "dueDate": "2026-11-18T23:59:00+07:00",
+    "type": "assignment",
+    "priority": "high",
+    "createdAt": "2026-10-16T08:00:00+07:00"
+  },
+  {
+    "id": "11",
+    "title": "Bài tập lớn - Phân tích & thiết kế HTTT",
+    "description": "Phân tích và thiết kế đầy đủ hệ thống thông tin cho một doanh nghiệp thực tế. Nộp báo cáo + slide.",
+    "subjectId": "s4",
+    "dueDate": "2026-12-15T23:59:00+07:00",
+    "type": "project",
+    "priority": "urgent",
+    "createdAt": "2026-10-18T08:00:00+07:00"
+  },
+  {
+    "id": "12",
+    "title": "Quiz tuần 6 - JavaScript Promises & Async",
+    "description": "Quiz trắc nghiệm 30 phút trên LMS về JavaScript Promises, async/await và xử lý bất đồng bộ.",
+    "subjectId": "s1",
+    "dueDate": "2026-11-01T22:00:00+07:00",
+    "type": "exam",
+    "priority": "urgent",
+    "createdAt": "2026-10-22T08:00:00+07:00"
+  }
+]

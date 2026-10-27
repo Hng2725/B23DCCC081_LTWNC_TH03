@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s1",
+    "slug": "lap-trinh-web",
+    "name": "Lập trình Web",
+    "code": "INT3306",
+    "color": "#3b82f6",
+    "icon": "🌐"
+  },
+  {
+    "id": "s2",
+    "slug": "co-so-du-lieu",
+    "name": "Cơ sở dữ liệu",
+    "code": "INT2211",
+    "color": "#10b981",
+    "icon": "🗄️"
+  },
+  {
+    "id": "s3",
+    "slug": "mang-may-tinh",
+    "name": "Mạng máy tính",
+    "code": "INT2213",
+    "color": "#f59e0b",
+    "icon": "📡"
+  },
+  {
+    "id": "s4",
+    "slug": "phan-tich-thiet-ke-he-thong",
+    "name": "Phân tích & Thiết kế hệ thống",
+    "code": "INT3305",
+    "color": "#8b5cf6",
+    "icon": "📐"
+  }
+]

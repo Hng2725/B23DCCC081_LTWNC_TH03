@@ -1,0 +1,23 @@
+[
+  {
+    "id": "u1",
+    "email": "admin@ptit.edu.vn",
+    "password": "admin123",
+    "name": "Nguyễn Văn B",
+    "role": "admin",
+    "completedDeadlines": []
+  },
+  {
+    "id": "u2",
+    "email": "sv@ptit.edu.vn",
+    "password": "sv123456",
+    "name": "Nguyễn Văn A",
+    "role": "user",
+    "completedDeadlines": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ]
+  }
+]
